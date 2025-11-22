@@ -19,7 +19,7 @@ Reach out to me at [firstname][lastname]2001@gmail[dot]com, to chat about resear
 
 ## News
 
-* *[October 2025]* Some of my recent [work](https://arxiv.org/pdf/2507.02974) on private text generation using LLMs was accepted at **NeurIPS 2025**. We introduce InvisibleInk, which uses LLMs to generate synthetic text at scale with differential privacy guarantees, at **10x lesser computational cost** than prior work. Very grateful to [Prof. Krishna](https://krishnap25.github.io/) and [Abhradeep Thakurta](https://athakurta.squarespace.com/) for all their support and guidance!
+* *[October 2025]* Some of my recent [work](https://arxiv.org/pdf/2507.02974) on private text generation using LLMs was accepted at **NeurIPS 2025**. We introduce InvisibleInk, which uses LLMs to generate synthetic text at scale with differential privacy guarantees, at **10x lesser computational cost** than prior work. Very grateful to my advisor, [Krishna Pillutla](https://krishnap25.github.io/), and to [Abhradeep Thakurta](https://athakurta.squarespace.com/) for all their support and guidance!
 
 * *[October 2025]* Our [paper](https://openreview.net/pdf?id=2bj0eVgCdO) on "Preserving Expert-Level Privacy in Offline RL" was accepted in **TMLR 2025**, as a **top 10% submission** (with a J2C Certification). Many thanks to my amazing collaborator [Navodita](https://scholar.google.com/citations?user=hcsR-tMAAAAJ) and other fantastic collaborators at Google.
 

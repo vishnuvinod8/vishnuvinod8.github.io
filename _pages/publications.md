@@ -33,7 +33,7 @@ Gautham Govind Anil&#42;, Vishnu Vinod&#42;, Apurva Narayan.
 
 **Preserving Expert-Level Privacy in Offline Reinforcement Learning.**  
 Navodita Sharma&#42;, Vishnu Vinod&#42;, Abhradeep Guha Thakurta, Alekh Agarwal, Borja Balle, Christoph Dann, Aravindan Raghuveer.  
-<mark style="background-color: lightblue"> Top 10% Submission </mark> (J2C Submission)
+<mark style="background-color: lightblue"> Top 10% Submission </mark> (J2C Submission).
 *TMLR (2025)*.  
 [PDF](https://openreview.net/pdf?id=2bj0eVgCdO)  &nbsp;
 
