@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a Post-Baccalaureate Fellow (equivalent to pre-doctoral researcher) at the [Centre for Responsible AI](https://cerai.iitm.ac.in/) at **IIT Madras**, where I am supervised by [Prof. Krishna Pillutla](https://krishnap25.github.io/). Prior to this, I spent 5 wonderful years at IIT Madras earning my Bachelor's and Master's in Computer Science and Engineering, advised by [Prof. Balaraman Ravindran](https://dsai.iitm.ac.in/~ravi/). My research interests lie primarily in the theory and practice of Trustworthy ML, with a focus on privacy-preserving and adversarially robust machine learning models. 
 
-My research at CeRAI is centred around differentially private synthetic data generation using LLMs; some of my recent work was accepted at [NeurIPS 2025](https://arxiv.org/pdf/2507.02974). I am also currently exploring ways to extend this work to Retrieval Augmented Generation (RAG) as well as audit the privacy of LLM-generated synthetic text.
+My research at CeRAI is centred around differentially private synthetic data generation using LLMs; some of my recent work was accepted at [NeurIPS 2025](https://arxiv.org/pdf/2507.02974). I am also currently exploring interesting extensions of this work.
 
 I was previously a Student Researcher at Google Research India, in the Advertising Sciences team, working on private offline reinforcment learning algorithms. I also spent an amazing summer at the University of British Columbia hosted by [Prof. Apurva Narayan](https://a-narayan.github.io/) where I explored the adversarial robustness of quantum ML models. 
 
