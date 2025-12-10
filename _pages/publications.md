@@ -22,6 +22,7 @@ Vishnu Vinod, Krishna Pillutla, Abhradeep Guha Thakurta.
 [PDF](https://arxiv.org/pdf/2507.02974)  &nbsp;
 [Code](https://github.com/cerai-iitm/invisibleink) &nbsp;
 [Poster](/papers/invink_neurips_2025_poster.pdf) &nbsp;
+[Slides](/papers/invink_neurips_2025_slides.pdf) &nbsp;
 
 
 **Generating Universal Adversarial Perturbations for Quantum Classifiers.**  
