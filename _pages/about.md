@@ -18,15 +18,16 @@ Reach out to me at [firstname][lastname]2001@gmail[dot]com, to chat about resear
 
 
 ## News
+* *[November 2025]* I will be attending NeurIPS 2025 in San Diego to present InvisibleInk!
 
-* *[October 2025]* Some of my recent [work](https://arxiv.org/pdf/2507.02974) on private text generation using LLMs was accepted at **NeurIPS 2025**. We introduce InvisibleInk, which uses LLMs to generate synthetic text at scale with differential privacy guarantees, at **10x lesser computational cost** than prior work. Very grateful to my advisor, [Krishna Pillutla](https://krishnap25.github.io/), and to [Abhradeep Thakurta](https://athakurta.squarespace.com/) for all their support and guidance!
+* *[October 2025]* [InvisibleInk](https://arxiv.org/pdf/2507.02974) accepted at **NeurIPS 2025**. We generate synthetic text at scale with differential privacy guarantees, at **10x lesser computational cost** than prior work. Grateful to my advisor, [Krishna Pillutla](https://krishnap25.github.io/), and to [Abhradeep Thakurta](https://athakurta.squarespace.com/) for all their support and guidance!
 
-* *[October 2025]* Our [paper](https://openreview.net/pdf?id=2bj0eVgCdO) on "Preserving Expert-Level Privacy in Offline RL" was accepted in **TMLR 2025**, as a **top 10% submission** (with a J2C Certification). Many thanks to my amazing collaborator [Navodita](https://scholar.google.com/citations?user=hcsR-tMAAAAJ) and other fantastic collaborators at Google.
+* *[October 2025]* [Paper](https://openreview.net/pdf?id=2bj0eVgCdO) on "Preserving Expert-Level Privacy in Offline RL" accepted in **TMLR 2025**, as a **top 10% submission** (with a J2C Certification). Many thanks to my amazing collaborator [Navodita](https://scholar.google.com/citations?user=hcsR-tMAAAAJ) and other fantastic collaborators at Google.
 
-* *[July 2024]* Thrilled to announce that I am joining [CeRAI](https://cerai.iitm.ac.in/) as a Post-Baccalaureate Fellow!
+* *[July 2024]* I will be joining [CeRAI](https://cerai.iitm.ac.in/) as a Post-Baccalaureate Fellow!
 
-* *[June 2024]* I have graduated with a **Dual Degree (B.Tech + M.Tech)** in Computer Science and Engineering. Thanks to everyone who made my time at IIT Madras truly special!
+* *[June 2024]* I have graduated with a **Dual Degree (B.Tech + M.Tech)** in Computer Science and Engineering from IIT Madras.
 
-* *[February 2024]* Our [work](https://arxiv.org/pdf/2402.08648), on "Generating Universal Adversarial Perturbations for Quantum Classifiers" was accepted at **AAAI 2024**. Thanks to my amazing collaborator [Gautham](https://www.linkedin.com/in/gautham-govind-a-8357211a7/), and to [Prof. Apurva](https://a-narayan.github.io/) for his guidance and support!
+* *[February 2024]* [QuGAP](https://arxiv.org/pdf/2402.08648) accepted at **AAAI 2024**. We explore the existence and generation of UAPs for quantum classifiers. Thanks to my amazing collaborator [Gautham](https://gautham-ga.github.io/), and to [Prof. Apurva](https://a-narayan.github.io/) for his support!
 
-* *[November 2023]* Honoured to be selected as a **Student Researcher** at Google Research!
+* *[November 2023]* I will be interning as a **Student Researcher** at Google Research for 6 months.
